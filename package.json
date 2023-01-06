@@ -1,0 +1,20 @@
+{
+  "name": "xxisp-landing",
+  "version": "1.0.0",
+  "description": "Landing page for xxisp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/famdalorian/xxisp-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/famdalorian/xxisp-landing/issues"
+  },
+  "homepage": "https://github.com/famdalorian/xxisp-landing#readme"
+}
